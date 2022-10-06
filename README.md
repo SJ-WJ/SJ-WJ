@@ -1,4 +1,6 @@
-### Hi there, Welcome to my GitHub Profile. My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](https://www.lighthouselabs.ca/)
+### Hi there, Welcome to my GitHub Profile. 
+
+My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
 - I’m currently reviewing JS, React, NodeJS, CSS and Database Design 
 - I’m currently learning Typescript, and Python
