@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Welcome to my GitHub Profile. My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](https://www.lighthouselabs.ca/)
+
+- I’m currently reviewing JS, React, NodeJS, CSS and Database Design 
+- I’m currently learning Typescript, and Python
+- How to reach me: sirajwahaj.ibrahim@gmail.com
 
 <!--
 **SJ-WJ/SJ-WJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
