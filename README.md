@@ -4,6 +4,7 @@ My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](
 
 - I’m currently learning Tailwindcss, Azure, Angular, and TypeScript
 - I'm committed to expanding my skillset in the future by learning Vue, Python, and Java
+- You can find me here on [LinkedIn](https://www.linkedin.com/in/siraj-ibrahim-55382b233/)
 
 <!--
 **SJ-WJ/SJ-WJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
