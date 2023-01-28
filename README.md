@@ -1,6 +1,9 @@
 ### Hi there, Welcome to my GitHub Profile. 
 
-My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](https://www.lighthouselabs.ca/)
+My name is Siraj and I am a Fullstack Web Developer thanks to [Lighthouse Labs](https://www.lighthouselabs.ca/). A self-motivated developer with a strong interest in developing exceptional products and a constant desire to improve my skills and knowledge, transitioning from a background as a Civil Engineering Technologist.
+
+- I’m currently learning Tailwindcss, Azure, Angular, and TypeScript
+- I have plans to learn Vue, Python, and Java
 
 <!--
 **SJ-WJ/SJ-WJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
